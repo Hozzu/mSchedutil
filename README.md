@@ -1,4 +1,4 @@
-# mschedutil
+# mSchedutil
 
 Philkyue Shin, Dahun Kim, and Seongsoo Hong. "Memory-aware dvfs governing policy for improved energy-saving in the linux kernel." 2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA). IEEE, 2023.
 
